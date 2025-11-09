@@ -78,7 +78,7 @@ pip install -r requirements.txt
 cp .env.example .env
 ```
 
-### Create and Configure your .env
+### ⚙️ Create and Configure your .env
 ```
 FLASK_ENV=development
 SECRET_KEY=your_flask_secret
@@ -90,7 +90,7 @@ CORS_ORIGINS=http://localhost:5173
 ```
 and put it on backend/ dir
 
-### Run Flask
+### ✅ Run Flask
 ```
 python app.py
 ```
@@ -102,7 +102,7 @@ npm install
 npm run dev
 ```
 
-### Open the app in your browser:
+### ↪️ Open the app in your browser:
 ```
 🌐 http://localhost:5173
 ```
