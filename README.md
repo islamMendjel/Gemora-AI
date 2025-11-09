@@ -78,7 +78,7 @@ pip install -r requirements.txt
 cp .env.example .env
 ```
 
-### Configure your .env
+### Create and Configure your .env
 ```
 FLASK_ENV=development
 SECRET_KEY=your_flask_secret
@@ -88,6 +88,7 @@ DATABASE_URL=postgresql://postgres:password@localhost:5432/gemora_db
 RATE_LIMITER_STORAGE=memory://
 CORS_ORIGINS=http://localhost:5173
 ```
+and put it on backend/ dir
 
 ### Run Flask
 ```
