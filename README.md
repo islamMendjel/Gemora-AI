@@ -1,8 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
 
-# 🤖 Gemora AI — Gemini API Intelligent Chat Bot
+# 🤖 GemoraAI — Gemini API Intelligent Chat Bot
 
-Gemora AI is a **full-stack conversational chatbot** built with **Flask**, **React**, and **Google’s Gemini API**.  
+GemoraAI is a **full-stack conversational chatbot** built with **Flask**, **React**, and **Google’s Gemini API**.  
 It delivers real-time, natural replies in an elegant UI, supports **JWT-secured authentication**, and stores user chat history using **PostgreSQL**.
 
 ---
